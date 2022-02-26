@@ -1,5 +1,3 @@
 # Password-Generator
-A simplistic commandline password generator.
 
-
-This was a test. It was ONLY a test.
+reused old project to create a password generator with a gui rather than command line.
